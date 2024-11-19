@@ -1,0 +1,18 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+   We simulate a percolation system by employing an nxn grid composed of sites, each of which can be either open or blocked. A site is considered full if it is open and can be reached from the top row through a chain of neighboring (left, right, up, down) open sites. Percolation occurs when there exists at least one full site in the bottom row, indicating a connection from top to bottom. In practical terms, this means that all open sites linked to the top row are filled, and this process results in the filling of at least one open site in the bottom row. In the context of materials like insulators and metals, open sites represent conductive materials; thus, a percolating system signifies the presence of a conductive path from top to bottom, with full sites facilitating conduction. Conversely, in scenarios involving porous substances, open sites represent empty spaces through which fluid, such as water, could flow. In this case, a percolating system enables the flow of water through open sites, creating a path from the top to the bottom of the grid.
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...

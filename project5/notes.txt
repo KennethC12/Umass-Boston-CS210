@@ -1,0 +1,20 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+   In this project, we aim to develop a symbol table for managing two-dimensional spatial data using points as keys. 
+   We will implement two distinct data types: BrutePointST and KdTreePointST. Each type supports efficient spatial queries such as range search and k-nearest neighbor search.
+   
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...

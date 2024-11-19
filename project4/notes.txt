@@ -1,0 +1,24 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+This project is about creating a program that solves a sliding puzzle game known as the 8-puzzle, 
+which could also work for similar puzzles of different sizes. 
+Imagine a small square frame that holds 9 tiles, one of which is missing, 
+allowing the others to slide around within the frame. 
+The tiles are numbered, and the goal is to move them around until they are in numerical order.
+
+
+   
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...

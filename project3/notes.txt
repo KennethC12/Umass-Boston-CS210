@@ -1,0 +1,25 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+   This version of project was about AutoComplete. AutoComplete is to finish what the person is trying to write.
+   For example in these IDEs, when typing you are able to autocomplete the word that you are trying write. 
+   The API for terms that was given to us was about comparing
+   terms by three different orders: lexicographic order by query; in descending order by weight; and lexicographic order by query
+   but using only the first r characters.
+   This project also used an sorted array for the binary search.
+   In this the autocomplete.java part, I was able to implement a data type that provides autocomplete functionality for a
+   given set of string and weights, using Term and BinarySearchDeluxe.
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...

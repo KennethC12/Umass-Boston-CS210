@@ -1,0 +1,19 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+   The purpose of this project is to implement elementary data structures using arrays and linked lists, and to introduce
+you to generics and iterators. Implement these data structures and algorithms in Java, ensuring adherence to the provided specifications and guidelines, and submit the required files along with appropriate documentation.
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
